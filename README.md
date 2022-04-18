@@ -1,0 +1,1 @@
+A repository of `The Go Programming Language`'s source code and exercises.
